@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+}
+
+.title {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.title > img {
+  height: 4em;
+  border-radius: 0.5em;
+}
+
+.title > h1 {
+  letter-spacing: 0.05em;
+}
