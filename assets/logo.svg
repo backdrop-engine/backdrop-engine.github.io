@@ -7,48 +7,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="D:\Programming Projects\backdrop\backdrop-canvas\public\logo-512.png"
-   width="512"
-   height="512"
-   viewBox="0 0 135.46666 135.46666"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.46666 135.46666"
+   height="512"
+   width="512"
+   inkscape:export-filename="D:\Programming Projects\backdrop\backdrop-canvas\public\logo-512.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:pagecheckerboard="true"
-     showguides="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.8027344"
-     inkscape:cx="286.3768"
-     inkscape:cy="313.88248"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
-     inkscape:guide-bbox="true">
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g836"
+     inkscape:document-units="px"
+     inkscape:cy="291.91199"
+     inkscape:cx="360.18661"
+     inkscape:zoom="2.8284271"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
-       enabled="false"
-       id="grid866"
-       type="xygrid"
-       dotted="false"
+       spacingx="16.933332"
        spacingy="16.933332"
-       spacingx="16.933332" />
+       dotted="false"
+       type="xygrid"
+       id="grid866"
+       enabled="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -63,48 +63,41 @@
     </rdf:RDF>
   </metadata>
   <rect
-     inkscape:label="Background"
-     y="0"
-     x="0"
-     height="135.46666"
-     width="135.46666"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect868"
-     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <ellipse
-     style="display:inline;fill:none;fill-opacity:1;stroke:#ffd040;stroke-width:9.52491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path857"
-     cx="67.73333"
-     cy="67.733299"
-     rx="41.804211"
-     ry="41.80418" />
+     width="135.46666"
+     height="135.46666"
+     x="0"
+     y="0"
+     inkscape:label="Background" />
   <g
-     id="g836"
+     inkscape:label="Sun"
+     id="g910">
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffd040;stroke-width:9.52491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path857"
+       cx="67.73333"
+       cy="67.733299"
+       rx="41.804211"
+       ry="41.80418"
+       inkscape:label="Ring" />
+    <circle
+       style="fill:#ffd040;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path905"
+       cx="67.73333"
+       cy="67.73333"
+       r="7.4083328"
+       inkscape:label="Point" />
+  </g>
+  <g
+     transform="matrix(1.2776003,0,0,1.2776003,-18.637644,-24.654976)"
      inkscape:label="Mountains"
-     transform="matrix(1.2776003,0,0,1.2776003,-18.637644,-20.950807)">
+     id="g836">
     <path
-       inkscape:label="Right Mountain"
-       transform="matrix(-0.94723535,0,0,0.65668255,128.06006,37.772044)"
-       inkscape:transform-center-y="-7.2472824"
-       d="m 87.044211,122.61406 -38.230516,0 -38.230518,0 19.115258,-33.108603 19.115259,-33.108599 19.115258,33.108598 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="1.5707963"
-       sodipodi:arg1="0.52359878"
-       sodipodi:r2="22.072399"
-       sodipodi:r1="44.144798"
-       sodipodi:cy="100.54166"
-       sodipodi:cx="48.813694"
-       sodipodi:sides="3"
+       inkscape:transform-center-x="-1.4360281e-05"
+       sodipodi:type="star"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.38977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path904"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.30192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="star"
-       inkscape:transform-center-x="-6.6161086e-06" />
-    <path
-       inkscape:label="Left Mountain"
-       sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.0188;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path904-3"
        sodipodi:sides="3"
        sodipodi:cx="48.813694"
        sodipodi:cy="100.54166"
@@ -116,8 +109,27 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 87.044211,122.61406 -38.230516,0 -38.230518,0 19.115258,-33.108603 19.115259,-33.108599 19.115258,33.108598 z"
-       inkscape:transform-center-y="-5.6952137"
-       transform="matrix(-0.744471,0,0,0.51604833,81.974883,55.015909)"
-       inkscape:transform-center-x="2.0594269e-06" />
+       inkscape:transform-center-y="-7.1453516"
+       transform="matrix(-0.93450846,0,0,0.64744638,127.92455,40.996438)"
+       inkscape:label="Right Mountain" />
+    <path
+       inkscape:transform-center-x="1.4206449e-06"
+       transform="matrix(-0.74491405,0,0,0.51609161,82.014173,57.082073)"
+       inkscape:transform-center-y="-5.6956878"
+       d="m 87.044211,122.61406 -38.230516,0 -38.230518,0 19.115258,-33.108603 19.115259,-33.108599 19.115258,33.108598 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5707963"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="22.072399"
+       sodipodi:r1="44.144798"
+       sodipodi:cy="100.54166"
+       sodipodi:cx="48.813694"
+       sodipodi:sides="3"
+       id="path904-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.01608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:label="Left Mountain" />
   </g>
 </svg>
